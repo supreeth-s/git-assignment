@@ -1,0 +1,1 @@
+console.log('Branch 2 file 2 contents');
